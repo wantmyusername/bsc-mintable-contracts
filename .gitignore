@@ -1,0 +1,7 @@
+node_modules/
+
+# Input / output
+contratos.txt
+mentas.txt
+
+.DS_Store
